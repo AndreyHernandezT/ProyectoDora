@@ -1,0 +1,24 @@
+{
+  "name": "proyectodora",
+  "version": "1.0.0",
+  "description": "Alarma productos",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyHernandezT/ProyectoDora.git"
+  },
+  "author": "Andrey Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyHernandezT/ProyectoDora/issues"
+  },
+  "homepage": "https://github.com/AndreyHernandezT/ProyectoDora#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
